@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to become a Full Stack Developer
 - 💞️ I’m looking to collaborate on any projects to build my experience and scope.
 - 📫 You can reach me at +4475075229007 & jsayers.work@gmail.com
-- 🖥️ Please check out my portfolio website: www.joesayers.co.uk
+- 🖥️ Please check out my portfolio website: [www.joesayers.co.uk](https://jsayerswork.wixstudio.io/jsdesign)
 
 <!---
 joesayersfs/joesayersfs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
